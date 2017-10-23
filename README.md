@@ -1,13 +1,13 @@
 ## Welcome to ECT image reconstruction and pulling out materials
 
-### Setup
+### Simulation Setup
 
 # 100 pixels and 12 electrodes
 
 ![image](https://user-images.githubusercontent.com/5483365/31868410-7a73085c-b76c-11e7-91d1-8485b4cd71d6.png)
 ![image](https://user-images.githubusercontent.com/5483365/31868414-885bf028-b76c-11e7-908f-6eec18c85fbe.png)
 
-
+# Human and Metal Box
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
