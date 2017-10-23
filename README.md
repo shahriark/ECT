@@ -1,6 +1,9 @@
 
 # ECT image reconstruction and detection of hidden materials
 
+## Image Reconstruction Algorithms
+![image](https://user-images.githubusercontent.com/5483365/31869016-00534224-b773-11e7-9b6f-0ebab42d8e89.png)
+
 ## Simulation Setup
 
 ### 100 pixels and 12 electrodes
