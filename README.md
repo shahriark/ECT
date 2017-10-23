@@ -1,13 +1,16 @@
-## Welcome to ECT image reconstruction and pulling out materials
+# Welcome to ECT image reconstruction and detecting hidden materials
 
-### Simulation Setup
+## Simulation Setup
 
-# 100 pixels and 12 electrodes
+### 100 pixels and 12 electrodes
 
 ![image](https://user-images.githubusercontent.com/5483365/31868410-7a73085c-b76c-11e7-91d1-8485b4cd71d6.png)
 ![image](https://user-images.githubusercontent.com/5483365/31868414-885bf028-b76c-11e7-908f-6eec18c85fbe.png)
 
-# Human and Metal Box
+### Human and Metal Box
+
+![image](https://user-images.githubusercontent.com/5483365/31868393-48f0f4ce-b76c-11e7-9da8-45dd632f0b83.png)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
