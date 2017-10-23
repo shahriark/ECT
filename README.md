@@ -1,4 +1,4 @@
-ECT image reconstruction and detection of hidden materials
+#ECT image reconstruction and detection of hidden materials
 
 ## Simulation Setup
 
@@ -23,5 +23,13 @@ Subracting the 100kHz image and the 20kHz image, gives the image of the box.
 ### Human with Metal 'Gun' (in red) in pocket using COMSOL 4.2 (Simulation)
 
 Original Image
+![image](https://user-images.githubusercontent.com/5483365/31868682-e510518a-b76f-11e7-897b-32412824031f.png)
 
+Reconstructed image of human and box at 20kHz using Landweber algorithm (alpha = 0.05, 1000 iterations)
+![image](https://user-images.githubusercontent.com/5483365/31868694-f6c18a52-b76f-11e7-8444-4fc8e225f03b.png)
 
+Reconstructed image of human and box at 20kHz using Landweber algorithm (alpha = 0.05, 1000 iterations)
+![image](https://user-images.githubusercontent.com/5483365/31868696-ff95b824-b76f-11e7-80d3-e84d3cda150d.png)
+
+Subtracted
+![image](https://user-images.githubusercontent.com/5483365/31868704-10e660ce-b770-11e7-8fb3-a27f2b6ff611.png)
