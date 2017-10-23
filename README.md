@@ -1,4 +1,4 @@
-# Welcome to ECT image reconstruction and detecting hidden materials
+ECT image reconstruction and detection of hidden materials
 
 ## Simulation Setup
 
@@ -9,8 +9,11 @@
 
 ### Human and Metal Box in Simulation using COMSOL 4.2
 
-Reconstructed image of human and box at 20kHz using Landweber algorithm (alpha = 0.05, 1000 iterations)
+Setup in COMSOL
 ![image](https://user-images.githubusercontent.com/5483365/31868393-48f0f4ce-b76c-11e7-9da8-45dd632f0b83.png)
+
+Reconstructed image of human and box at 20kHz using Landweber algorithm (alpha = 0.05, 1000 iterations)
+![image](https://user-images.githubusercontent.com/5483365/31868502-ab631e56-b76d-11e7-96f3-4aaddfbc1059.png)
 
 Reconstructed image of human and box but this time at 100kHz using Landweber algorithm (alpha = 0.05, 1000 iterations)
 ![image](https://user-images.githubusercontent.com/5483365/31868611-eb37d20a-b76e-11e7-8f59-0d5163542d7d.png)
