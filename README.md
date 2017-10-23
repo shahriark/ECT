@@ -23,7 +23,6 @@ Subracting the 100kHz image and the 20kHz image, gives the image of the box.
 
 ### Human with Metal 'Gun' (in red) in pocket using COMSOL 4.2 (Simulation)
 
-Original Image
 ![image](https://user-images.githubusercontent.com/5483365/31868682-e510518a-b76f-11e7-897b-32412824031f.png)
 
 Reconstructed image of human with metal 'gun' at 20kHz using Landweber algorithm (alpha = 0.05, 10000 iterations)
@@ -34,3 +33,13 @@ Reconstructed image of human with metal 'gun' at 100kHz using Landweber algorith
 
 Taking the difference between the two reconstructed images accurately gives the position of the metal 'gun'
 ![image](https://user-images.githubusercontent.com/5483365/31868704-10e660ce-b770-11e7-8fb3-a27f2b6ff611.png)
+
+### Experimental determination of water and wood from 4 pixels and 4 electrodes 
+
+![image](https://user-images.githubusercontent.com/5483365/31868887-d5c32444-b771-11e7-9377-a03574db68f0.png)
+![image](https://user-images.githubusercontent.com/5483365/31868919-1a85557a-b772-11e7-9b2e-2114eb10bc31.png)
+![image](https://user-images.githubusercontent.com/5483365/31868937-43ab6d22-b772-11e7-9e51-0c9c22d125ac.png)
+![image](https://user-images.githubusercontent.com/5483365/31868956-74dd5efa-b772-11e7-908c-f47dfb1da328.png)
+![image](https://user-images.githubusercontent.com/5483365/31868969-87fd85be-b772-11e7-9bfc-c291d09395da.png)
+![image](https://user-images.githubusercontent.com/5483365/31868976-a37831b8-b772-11e7-8f99-31d4a524912c.png)
+![image](https://user-images.githubusercontent.com/5483365/31868994-c1d1e8de-b772-11e7-9729-ba868b3f022b.png)
